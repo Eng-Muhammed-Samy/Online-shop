@@ -1,0 +1,26 @@
+{
+  "name": "online-shop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eng-Muhammed-Samy/Online-shop.git"
+  },
+  "author": "mohamed samy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Eng-Muhammed-Samy/Online-shop/issues"
+  },
+  "homepage": "https://github.com/Eng-Muhammed-Samy/Online-shop#readme",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "ejs": "^3.1.7",
+    "express": "^4.18.1",
+    "mongodb": "^4.5.0",
+    "mongoose": "^6.3.1"
+  }
+}
